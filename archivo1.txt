@@ -1,1 +1,4 @@
-Este archivo fuee creado localmente
+Cambio realizado en local
+Cambio realizado en GitHub
+Este archivo fue creado localmente 
+
